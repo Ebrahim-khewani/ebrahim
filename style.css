@@ -100,8 +100,9 @@ main .right
     background-color:white;
     height: 300px;
     gap: 10px;
-    border-radius: 17px;
+    border-radius: 17px; 
   }
+  
   .h6
   {
     color: black;
